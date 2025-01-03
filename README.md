@@ -7,6 +7,8 @@ Tools Used:
 - Metasploit and Hydra for brute-forcing credentials
 - Custom Bash scripts for automation
 
+🔗 Check out the full details on my Medium page: https://medium.com/@ashidijoy52/ine-assessment-methodologies-enumeration-ctf-1-25b8bb7ba1fe
+
 I started with the information gathering phase which is the first step in any penetration testing process. 
 - cat /etc/hosts 
 - nmap –sVSC –O target.ine.local 
